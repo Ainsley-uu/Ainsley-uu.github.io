@@ -1281,6 +1281,10 @@
 			background-color: #f6f6f6;
 		}
 
+		.wrapper.style4 {
+			background-color: #f6f6f6;
+		}
+
 		.wrapper.style3 {
 			background-attachment: fixed;
 			background-image: url("images/overlay.png"), url("../images/bg.jpg");
@@ -1304,6 +1308,7 @@
 	body.is-touch .wrapper.style3 {
 		background-attachment: scroll;
 	}
+
 
 /* Footer */
 
