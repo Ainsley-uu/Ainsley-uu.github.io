@@ -73,6 +73,10 @@
 		text-align: center;
 	}
 
+	#four {
+		text-align: center;
+	}
+
 /* Footer */
 
 	#footer {
@@ -143,7 +147,7 @@
 						border-top: solid 1px #555;
 						color: #fff;
 						display: block;
-						padding: 0.75em 0;
+						padding: 1em 0;
 						text-decoration: none;
 					}
 
